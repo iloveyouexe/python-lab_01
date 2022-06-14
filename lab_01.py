@@ -83,4 +83,6 @@ def sum_characters_in_list(elements):
     for i in elements:
         count = count + i
     return count
+
+
 print(sum_characters_in_list([2,2,2]))
